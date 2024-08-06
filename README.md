@@ -1,6 +1,6 @@
-# Agenda de contato 
+# Gerenciador de senhas
 
-Essa é uma agenda de contato desktop simples
+Esse app é um gerenciador de senhas
 
 ## Tecnologias utilizadas 💻
 

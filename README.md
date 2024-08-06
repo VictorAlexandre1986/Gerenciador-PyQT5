@@ -14,4 +14,4 @@ Essa é uma agenda de contato desktop simples
 
 ## Screenshot 📸
 
-<img src="imagem_2024-03-18_145424801.png">
+<img src="screenshot.png">
